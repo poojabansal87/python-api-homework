@@ -9,10 +9,14 @@ The first step in performing the analysis was to obtain the key to Weather API.
 Once done, I got a list of random cities equally distributed over latitudes using the pip citipy.
 Using the above list of cities I made API calls to OpenWeatherMap API and stored different weather indicators received through JSON response in a dataframe.
 Using this dataframe, I plotted various scatter plots:
-* Temperature (F) vs. Latitude
-* Humidity (%) vs. Latitude
-* Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude
+* City Latitude vs Temperature
+!(Images\LatitudevsMaxTemperature.png) 
+* City Latitude vs Humidity
+!(Images\LatitudevsHumidity.png)
+* City Latitude vs Cloudiness
+!(Images\LatitudevsCloudiness.png)
+* City Latitude vs Wind Speed
+!(Images\LatitudevsWindSpeed.png)
 
 Three observable `data trends` we can see using the above plots are:
 -------------------------------------------------------------------------
