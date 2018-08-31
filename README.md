@@ -18,7 +18,7 @@ Using this dataframe, I plotted various scatter plots:
 * City Latitude vs Wind Speed
 ![LatitudevsWindSpeed](Images\LatitudevsWindSpeed.png)
 
-Three observable `data trends` we can see using the above plots are:
+The observable `data trends` we can see using the above plots are:
 -------------------------------------------------------------------------
 ```
 
