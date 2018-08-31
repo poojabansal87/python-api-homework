@@ -10,13 +10,13 @@ Once done, I got a list of random cities equally distributed over latitudes usin
 Using the above list of cities I made API calls to OpenWeatherMap API and stored different weather indicators received through JSON response in a dataframe.
 Using this dataframe, I plotted various scatter plots:
 * City Latitude vs Temperature
-!(Images\LatitudevsMaxTemperature.png) 
+![LatitudevsMaxTemperature](Images\LatitudevsMaxTemperature.png) 
 * City Latitude vs Humidity
-!(Images\LatitudevsHumidity.png)
+![LatitudevsHumidity](Images\LatitudevsHumidity.png)
 * City Latitude vs Cloudiness
-!(Images\LatitudevsCloudiness.png)
+![LatitudevsCloudiness](Images\LatitudevsCloudiness.png)
 * City Latitude vs Wind Speed
-!(Images\LatitudevsWindSpeed.png)
+![LatitudevsWindSpeed](Images\LatitudevsWindSpeed.png)
 
 Three observable `data trends` we can see using the above plots are:
 -------------------------------------------------------------------------
