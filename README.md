@@ -1,9 +1,9 @@
-# python-api-homework
-## Python API Homework
+# weather-analysis-by-latitude
+## Python using API calls, Pandas and Matplotlib library 
 
 # City weather by latitude analysis
 
-This assignment required us to do a weather analysis for 500+ cities spread across different latitudes to see how weather is impacted as compared to the distance of city from equator.
+This project aims at performing a weather analysis for 500+ cities spread across different latitudes to see how weather is impacted as compared to the distance of city from equator.
 
 The first step in performing the analysis was to obtain the key to Weather API.
 Once done, I got a list of random cities equally distributed over latitudes using the pip citipy.
